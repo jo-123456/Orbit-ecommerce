@@ -1,7 +1,7 @@
 [build]
   base    = "ecommerce-app/frontend"
   command = "npm run build"
-  publish = "ecommerce-app/frontend/dist"
+  publish = "dist"
 
 [[redirects]]
   from   = "/*"
