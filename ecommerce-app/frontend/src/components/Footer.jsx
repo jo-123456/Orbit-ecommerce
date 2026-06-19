@@ -7,6 +7,7 @@ export default function Footer() {
           ORBIT
         </div>
         <p className="footer-tagline">Tech that fits your orbit. Built as a full-stack demo project.</p>
+        <p className="footer-credit">Developed by Jonsia Cejohn</p>
         <p className="footer-year">© {new Date().getFullYear()} Orbit Store</p>
       </div>
     </footer>
